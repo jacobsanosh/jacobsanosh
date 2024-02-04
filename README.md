@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanosh Jacob</h1>
-<h3 align="center">I am Sanosh Jacob, a passionate MERN stack developer who enjoys debugging.</h3>
-<img align="right" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="coding">
+<h3 align="centre">I am Sanosh Jacob, a passionate MERN stack developer who enjoys debugging.</h3>
+<img style="display: flex; margin: auto;" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" alt="coding">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobsanosh&label=Profile%20views&color=0e75b6&style=flat" alt="jacobsanosh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobsanosh" alt="jacobsanosh" /></a> </p>
@@ -19,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sanoshjacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanoshjacob" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jacobsanosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jacobsanosh" height="30" width="40" /></a>
 </p>
 
